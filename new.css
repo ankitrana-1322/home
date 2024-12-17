@@ -1,0 +1,70 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+MX:wght@100..400&display=swap');
+
+@font-face {
+    font-family:  "Playwrite MX", cursive;;
+    src: url('https://fonts.googleapis.com/css2?family=Playwrite+MX:wght@100..400&display=swap');
+}
+.main{
+    font-family:  "Playwrite MX", cursive;;
+    src: url('https://fonts.googleapis.com/css2?family=Playwrite+MX:wght@100..400&display=swap'); 
+    }
+
+.title{
+    margin-top: 45px;
+}
+.head{
+    margin-top: 50px;
+    margin-left: 40%;
+    border:2px solid black;
+    width: 300px;
+    height: 600px;
+    text-align: center;
+    background-color:rgb(255, 255, 255);
+    border-radius: 10px;
+    
+}
+.identity{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    width: 270px;
+    height: 30px;
+}
+.mark{
+    width: 270px;
+    height: 30px;
+}
+.uper{
+    margin-top: 30px;
+    /* float:left; */
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.butten{
+    margin: 4px;
+}
+.centre{
+    margin-top:20px;
+    width: 260px;
+    height: 35px;
+    border-radius: 30px;
+    border: 0px solid  rgb(31, 107, 229);
+    color: white;
+    background-color: rgb(31, 107, 229);
+}
+.footer{
+    margin-top:90px;
+    width: 260px;
+    height: 35px;
+    border-radius: 30px;
+    color :rgb(31, 107, 229);
+    border: 1px solid  rgb(31, 107, 229);
+}
+    .logo{
+        margin-top: 10px;
+        display: inline-block;       
+    }
+    .last{
+        display: inline-block;           
+    }
